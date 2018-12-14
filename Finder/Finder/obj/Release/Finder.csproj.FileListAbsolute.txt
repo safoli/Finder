@@ -1,0 +1,9 @@
+C:\Users\SafakKesikci\source\repos\Finder\Finder\bin\Release\Finder.exe
+C:\Users\SafakKesikci\source\repos\Finder\Finder\bin\Release\Finder.pdb
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.Form1.resources
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.Properties.Resources.resources
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.csproj.GenerateResource.cache
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.csproj.CoreCompileInputs.cache
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.exe
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.pdb
+C:\Users\SafakKesikci\source\repos\Finder\Finder\obj\Release\Finder.csprojAssemblyReference.cache
